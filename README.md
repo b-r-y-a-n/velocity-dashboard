@@ -125,3 +125,8 @@ Each Widget is simply three components representing the three states of a compon
 | contentComp      | -   | The widget as normally displayed on the dashboard |
 | previewComp      | -   | (optional) The widget as displayed in the 'add widget' panel (usually a simplified version which doesn't depend on external data).  While optional, the default is simply a 'No Preview' message.  A previewComp is recommended for all Widgets. |
 | configComp      | -   | (optional) The configuration screen |
+
+
+## TODO
+ * update dependencies to latest
+ * use es6 modules
